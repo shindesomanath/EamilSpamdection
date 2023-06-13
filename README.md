@@ -1,1 +1,1 @@
-# EamilSpamdection
+# EamilSpamdetection
